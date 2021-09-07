@@ -1,0 +1,19 @@
+file 01 - Introduction to python , Variables in python , Python Operators and Expressions
+
+file 02- conditional statements 
+
+file 03-  Loops
+
+file 04- Basic Python Data Structures
+
+file 05- functions
+
+file 06- built-in-packages
+
+file 07- external packages
+
+file 08- Working with files , Errors and exception handling
+
+file 09- database programming with python
+
+file 10 - Flask
