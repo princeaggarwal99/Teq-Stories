@@ -1,0 +1,4 @@
+file 01 - Data Manipulation and preprocessing -numpy and pandas
+file 02 - Data Analytics and Visualization
+file 03 - statistics - Identify some insights of death in different state each year
+file 04 - Machine learning - Classification and Regression , ensemble techniques
