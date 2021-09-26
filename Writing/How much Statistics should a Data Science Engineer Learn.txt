@@ -1,0 +1,11 @@
+Data engineers are responsible for acquiring data for data scientists and data analysts, who need all the company's data available in a format that lets them query it with the tool of their choice. The data engineer has to migrate it from where it lives and transform it so that it makes sense to the data scientists and data analysts. That may require aggregating it and running statistical methods to derive higher insights. Training in both software development and data science skills such as statistics and math is important.
+Data Architects build models for business situations based on artificial intelligence models. They have to often triangulate the results from these models using other methods. These methods are sometimes statistical, in which case they need to know basic statistics.
+Statistics a data science engineer learn :
+
+-Descriptive statistics : provide summaries and descriptions of the data, as well as a way to visualize the data. A lot of raw information is difficult to review, summarize and communicate. With descriptive statistics, you can present the data in a meaningful way. 
+
+-Probability Theory : Probability is a quantifiable number between zero and one that measures the likelihood of a certain event happening. The higher the probability (the closer to one), the more likely it is to happen
+
+- Probability distribution, Dimesionality reduction , Over and under sampling, Bayesian statistics are some of the important things in statistics which a Data science engineer should learn.
+
+Also, Clustering, Regression, Latent Variable Analysis Turn big data into the big picture.

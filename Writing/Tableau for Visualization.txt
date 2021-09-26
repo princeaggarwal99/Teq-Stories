@@ -1,0 +1,8 @@
+Tableau is a Data Visualisation tool that is majorly used for data analytics and business Intelligence but is not limited to it.
+Data visualization is basically the graphical or visual representation of information and data by using visual elements like charts, graphs, plots, maps and data visualization tools provide an accessible way to see and understand data patterns and trends, outliers.
+Tableau helps to create interactive graphs,plots such as box plots, bar plots , histogram plots and charts in the form of dashboards and worksheets to gain business insights and help understand the insights of data from the descriptive statistics of data.
+Tableau is used by analysts, data scientists and experienced users mostly use for their analytics purposes and deploys MDX for measures and dimensions.
+Data blending , real-time analysis , DAX analysis function, Mobile-ready dashboards, Toggle view are such quite impressive features provided by Tableau which makes it as unique and user friendly to choose for various data analytics and visualisation tasks.
+Tableau has a variety of products available in market such as Tableau Desktop which allows us to code and customize reports.
+Tableau server , which is used to share workbooks, dashboards that are created in Tableau Desktop application across the organization and also Tableau public which is built for cost effective users and almost free to serve for all.
+One of the greatest service provide by Tableau in visualization is the Tableau online , it is an online sharing tool of tableau  Its functionalities are similar to Tableau Server, but the data is stored on servers hosted in the cloud, which are maintained by the Tableau group.Hence it is  a great tool for the Data visualization

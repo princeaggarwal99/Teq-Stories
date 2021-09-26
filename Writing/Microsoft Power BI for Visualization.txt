@@ -1,0 +1,7 @@
+Power BI is Microsoft's business analytics service. It is a platform that  aims to provide interactive visualization and business intelligence capabilities with an interface simple enough for end and every users to create their own reports and dashboards and do any visualisation and analytics task. It is part of the Microsoft Power Platform where Power BI is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and interactive insights
+Power BI can handle a limited volume of data  providing limited customer support to its users with a free cost account. 
+Power BI is backed by the superpower of with artificial intelligence and machine learning ,  providing many options related to wrangling and clean the data.
+Power Bi is much Secure and reliable connection to your data sources in the cloud or on-premises and Offers pre-built dashboards and reports for SaaS Solutions with real-time dashboard updates.
+Customizable dashboards, navigation pane, Q&A question box, Ad Hoc reporting and analysis are some of the features of power BI which makes it more reliable and effective and end user to choose and work upon that.
+Power BI Desktop, Data gateway, report server , mobile apps are some of the tools provided by power bi for visualisation and analytics.
+hence a much Suitable tool for Small, medium & large type of organizationlimited data source
